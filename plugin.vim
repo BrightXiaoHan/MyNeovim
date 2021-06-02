@@ -25,5 +25,8 @@ Plug 'tpope/vim-fugitive'
 
 " markdown
 Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
+
+" nerd commenter
+Plug 'preservim/nerdcommenter'
 " Initialize plugin system
 call plug#end()
