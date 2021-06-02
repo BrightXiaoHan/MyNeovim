@@ -14,6 +14,9 @@ source ~/.config/nvim/leaderf.vim
 " This script contains markdown_preview configurations
 source ~/.config/nvim/markdown_preview.vim
 
+" This script contains nerdcommenter configurations
+source ~/.config/nvim/nerdcommenter.vim
+
 set showtabline=2
 set autowriteall
 
