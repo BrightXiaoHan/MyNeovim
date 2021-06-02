@@ -6,8 +6,9 @@ call plug#begin('~/.vim/plugged')
 " coc.vim
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
-" nord colorschemer
+" colorschemers
 Plug 'joshdick/onedark.vim'
+Plug 'sonph/onehalf', {'rtp': 'vim/'}
 
 " light line
 Plug 'itchyny/lightline.vim'
