@@ -17,6 +17,9 @@ source ~/.config/nvim/markdown_preview.vim
 " This script contains nerdcommenter configurations
 source ~/.config/nvim/nerdcommenter.vim
 
+" This script contains pydocstring configurations
+source ~/.config/nvim/pydocstring.vim
+
 set showtabline=2
 set autowriteall
 

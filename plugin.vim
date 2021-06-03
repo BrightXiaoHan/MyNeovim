@@ -28,5 +28,8 @@ Plug 'iamcco/markdown-preview.nvim', { 'do': 'cd app && yarn install'  }
 
 " nerd commenter
 Plug 'preservim/nerdcommenter'
+
+" python docstring
+Plug 'heavenshell/vim-pydocstring', { 'do': 'make install', 'for': 'python' }
 " Initialize plugin system
 call plug#end()
