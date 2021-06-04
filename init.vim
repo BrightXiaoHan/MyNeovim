@@ -26,10 +26,10 @@ set autowriteall
 " Custom settings
 syntax on
 set number
-" colorscheme onedark
-" let g:airline_theme='onedark'
-colorscheme onehalflight
-let g:airline_theme='onehalfdark'
+
+" default colorscheme
+let g:airline_theme='onedark'
+colorscheme onedark
 set termguicolors
 
 set splitright splitbelow
