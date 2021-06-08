@@ -33,4 +33,7 @@ Plug 'preservim/nerdcommenter'
 " python docstring
 Plug 'heavenshell/vim-pydocstring', { 'do': 'make install', 'for': 'python' }
 " Initialize plugin system
+
+" vim tagbar
+Plug 'majutsushi/tagbar'
 call plug#end()

@@ -20,6 +20,9 @@ source ~/.config/nvim/nerdcommenter.vim
 " This script contains pydocstring configurations
 source ~/.config/nvim/pydocstring.vim
 
+" This script contains tagbar configurations
+source ~/.config/nvim/tagbar.vim
+
 set showtabline=2
 set autowriteall
 
