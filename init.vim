@@ -23,6 +23,9 @@ source ~/.config/nvim/pydocstring.vim
 " This script contains tagbar configurations
 source ~/.config/nvim/tagbar.vim
 
+" vimtex
+source ~/.config/nvim/vimtex.vim
+
 set showtabline=2
 set autowriteall
 

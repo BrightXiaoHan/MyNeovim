@@ -36,4 +36,7 @@ Plug 'heavenshell/vim-pydocstring', { 'do': 'make install', 'for': 'python' }
 
 " vim tagbar
 Plug 'majutsushi/tagbar'
+
+" vim tex
+Plug 'lervag/vimtex'
 call plug#end()
