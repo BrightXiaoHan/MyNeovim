@@ -39,4 +39,7 @@ Plug 'majutsushi/tagbar'
 
 " vim tex
 Plug 'lervag/vimtex'
+
+" Ranger integeration for vim
+Plug 'kevinhwang91/rnvimr'
 call plug#end()

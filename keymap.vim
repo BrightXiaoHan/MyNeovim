@@ -40,7 +40,7 @@ nnoremap <silent>sp :sp<CR>
 nnoremap <silent>vs :vs<CR>
 " ctrl+t to open a new tab, ctrl+w to close current tab or window
 nnoremap <silent>q :q<CR>
-nnoremap <silent><C-t>c :tabnew .<CR>
+nnoremap <silent><C-t>c :tabnew<CR>
 nnoremap <silent><C-t>t :tabnew<CR>:terminal<CR>izsh<CR>clear<CR>
 
 " adjust window related positions
@@ -48,5 +48,4 @@ noremap <A-,> <C-w>t<C-w>H
 noremap <A-.> <C-w>t<C-w>K
 
 " switch between tabs
-noremap <A-Left> <Esc>gT
-noremap <A-Right> <Esc>gt
+noremap <C-Tab> <Esc>gT

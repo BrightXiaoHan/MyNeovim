@@ -11,5 +11,4 @@ let g:Lf_PreviewResult = {'Function': 0, 'BufTag': 0 }
 
 inoremap <silent><C-p> <Esc>:Leaderf file<CR>
 nnoremap <silent><C-p> :Leaderf file<CR>
-inoremap <silent><S-f> <Esc>:Leaderf rg<CR>
 nnoremap <silent><S-f> <Esc>:Leaderf rg<CR>
